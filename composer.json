@@ -1,0 +1,25 @@
+{
+  "name": "sheillendra/raphael",
+  "description": "Raphael JS",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extensions", "js", "raphael"],
+  "authors": [
+    {
+      "name": "gustarus",
+      "email": "gustarus@gmail.com",
+      "homepage": "http://webulla.ru",
+      "role": "Adaptation"
+    },
+    {
+      "name": "DmitryBaranovskiy",
+      "email": "dmitry@baranovskiy.com",
+      "homepage": "http://dmitry.baranovskiy.com/",
+      "role": "Author"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "sheillendra\\raphael\\": ""
+    }
+  }
+}
